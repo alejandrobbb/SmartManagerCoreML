@@ -1,6 +1,6 @@
 <h2>SmartManager</h2>
 <h5>Core Machine Learning</h5>
-para este segmento es necesario un env en el que corra ultralytics v4 
+para este segmento es necesario un env en el que corra ultralytics v4 <br>
 Para iniciar este proyecto en correcto funcionamiento, es importante tener en ejecución todas las partes del proyecto en su conjunto, y que la comunicaion entre ellas este parametrizada correctamente. Quedan publicos tambien en otros repositorios con la referencia "SMART MANAGER" las demas partes del proyecto: scripts de machine learning en Python, el canal de servicios API WebSockets en .NET C#, y el cliente Frontend desarrollado en Angular TS.<br>Son tres partes a grandes rasgos separados por independencia de responsabilidades.<br><br>
 Esta base está parametrizada para funcionar también con otros scripts modulares de machine learning desde el backend que no estan en esta version, permitiendo implementar funcionalidades como detección facial, control de zonas, sistema de alarmas y notificaciones, control de personal y actividades.
 <h4>Esta es una fracción del proyecto original, presentada como un template público en su versión "LITE".</h4><br><h3>Esta versión Lite es un sistema de Machine Learning para la detección de personas y gestión de eventos.</h3>
